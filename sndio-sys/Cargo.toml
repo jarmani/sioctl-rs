@@ -7,8 +7,7 @@ authors = ["Michael Killough <michaeljkillough@gmail.com>"]
 edition = "2018"
 
 [build-dependencies]
-bindgen = "0.53"
+bindgen = "0.72"
 
 [dependencies]
 libc = "0.2"
-
